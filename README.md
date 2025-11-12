@@ -73,6 +73,18 @@ Python • SQL • BPMN • Markdown • macOS / iOS
 - [SABAinterview](https://github.com/ptrvAleks/SABAinterview) — документация
 ---
 
+### 📊 Статистика GitHub
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ptrvAleks&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&locale=ru"
+    alt="Статистика GitHub" width="48%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptrvAleks&layout=compact&theme=transparent&hide_border=true&locale=ru"
+    alt="Наиболее используемые языки" width="48%" />
+</p>
+
+
 ### 📫 Связаться
 [petrv.alex@outlook.com](mailto:petrv.alex@outlook.com)
 
