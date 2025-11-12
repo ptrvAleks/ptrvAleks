@@ -81,7 +81,7 @@ Python • SQL • BPMN • Markdown • macOS / iOS
     alt="Статистика GitHub" width="48%" />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptrvAleks&layout=compact&theme=transparent&hide_border=true&locale=ru"
-    alt="Наиболее используемые языки" width="48%" />
+    alt="Наиболее используемые языки" width="50%" />
 </p>
 
 
