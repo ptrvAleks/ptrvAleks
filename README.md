@@ -13,7 +13,7 @@ I love turning chaos into structure — from raw requirements to clean diagrams 
 ---
 
 ### 🛠 Tech Stack
-Python • SQL • BPMN • Markdown • macOS / iOS
+Python • SQL • BPMN • Markdown
 
 ---
 
